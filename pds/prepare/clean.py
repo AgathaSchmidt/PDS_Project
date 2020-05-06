@@ -12,3 +12,5 @@ def delete(df):
     print('Deleting b_bike_type_row, since it is unimportant for our analysis')
     df['b_bike_type'].drop(axis=1, inplace=True)
     print('new dataframe:', df)
+
+#das ist nur ein kommentar zum testen von git
