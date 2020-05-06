@@ -1,0 +1,9 @@
+setup.py
+pds/__init__.py
+pds/cli.py
+pds.egg-info/PKG-INFO
+pds.egg-info/SOURCES.txt
+pds.egg-info/dependency_links.txt
+pds.egg-info/entry_points.txt
+pds.egg-info/requires.txt
+pds.egg-info/top_level.txt

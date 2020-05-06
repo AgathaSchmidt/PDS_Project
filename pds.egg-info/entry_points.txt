@@ -1,0 +1,3 @@
+[console_scripts]
+pds = pds.cli:main
+
